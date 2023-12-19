@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import './App.css'
-import Navbar from './componunts/navbar'
+import Navbar from './componunts/Navbar'
 import Footer from './componunts/Footer'
 import Home from './pages/Home'
 import Products from './pages/Products'
